@@ -4,6 +4,7 @@ To keep track of all the stocks of the school throughout the whole supply chain 
 
 
 The Inventory System web application is the best solution to sort all these problems. The information will be stored in a protected server which would be very flexible in the way of modifying it.
+
 //to be continued
 
 
