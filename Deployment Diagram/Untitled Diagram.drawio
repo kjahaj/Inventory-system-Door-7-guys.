@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T23:30:40.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="-Tv7h8JuFPH_pS-cV41o" version="20.8.16" type="github"><diagram name="Page-1" id="FMH-RGX8GbkVtLlR3dSW">7VnJcuM2EP0aHq3iKslHLZ6MJ3JFjlyznFIQCZFISIIFgrLkr0+DALgMqSUZyaqp5GKjG3v369cNynBmye4XhrLoiQY4Nmwz2BnO3LBty/RM+Cc0e6nxxp5UhIwEalCtWJE3rGcqbUECnLcGckpjTrK20qdpin3e0iHG6Gt72IbG7V0zFOKOYuWjuKv9QgIeSe1YX0voP2ISRnpny1Q9CdKDlSKPUEBfGyrnwXBmjFIuW8luhmNhPG0XOe/Dgd7qYAyn/JwJ5NNfz0/rX4vPFIfB2x97++7r851aZYviQl144nPK1In5XpsBDp+JZpHEcoAz3WLGCRhqgdY4XtKccEJTGLKmnNOkMWASk1B0cJqBNuJJDIIFTVrwmKR4VrnOBKU6EMzFu4M3tSr7AfAwTTBnexiiJtj3yuT7yilSfq096ChV1HDeUOmQwkxYrVybFRrKsv/AyuOOPXEAKFMiZTyiIU1R/FBrp4wWaYADZZV6zIIKM5b2+xNzvlchgwpO29aVe4qNjpsRzkUL5uMj57dV4CEWYn5k3KjfLQzHiJNt+xwXN/J9B8ovsyWs9LjstX4J27bFkAKqDwbCrAfBCQkC6Ryckze0LtcT7skoSXl5IW9qePNjMFZEpSbX9ND0y2EQHcT8nTmALbwW7pXbzja/WnwpLtMYQjebHNz+vX+qM/x7l+m4fN/AwDvCv4rpA09J31rSfKfWLoV9Q1hiRuDOAhsNrrpIiOncdirE7FuGmN0JMcMexnDc6RoaoWh8wdA01yLxgplUL2xWDahmsMOaWcTgxDDrib6ROEbQ+i3DDAljc7+Dmf5Eo6M5xhuxZp4hn6ThSwmSca1YlN1zu9b8rjKCVepU4vOLtQBfLkFlCe8HhEEgy6QH/hWZZbqhKdfwdfv4+IcSm+e2E9u4m9escU9is+xrZbbRaUQ8plu4Hi3vke9zjhPRwGx7CB//Ve+67nBgtxnc8Xoql+Fo4HV9bI+u5WPLuQlLp3D2Bk0L8ZvmYiHUNF1KFU+nwUTU/SCmNMVS84GIK1+cs88lbeumrG11i/wlFDBwXVTi2zbpBqLPsJ0S+EIweQT0awKZ302yzBD0UfWDo2T/zDYmZiFpXnfWES3/f3x5WsChZ6sV/P20alB+f7DrgExoUJQ46o9zHdbmOVWbJIxm7Oo89kPROmqHqmv2kLHTE6jXi1PvltWUbstaanSimDoQ3Nb5wU0znL5EJO0EeIDyqLyQpYQl4gCMtEwMtjm+MAec+zay3JtWbtYtsHGGK87xaFWwNyHWxNfQ6wCsp1rPwUe8Z7NSf6UMcf9zZIhuYf8oyHSDfKzSg8wIFc8HCF6wKMfvSOCX4OyxPWiztqcLriZr2z0ltHc11nY7tl/QUHyqJDHOfy77Doft94k77MmJ72vd7lehzgNFK4hWzCtwf/dOab1ZUSKsFnel1fOiUrQHn3gAww3J6Wfy/4+lZhV1pPqqfkNoPYXda0FN47oBtRIJNYZuSJ5NZ1gXMH/1Sf0dIh3E+lcS+emx/q3Jefgb</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-02T23:30:45.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Am0nl9JoG0YI--pPdv9d" version="20.8.16" type="github">
+  <diagram name="Page-1" id="FMH-RGX8GbkVtLlR3dSW">
+    <mxGraphModel dx="1050" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iJkQMbKuVoegdz_y2-XQ-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJkQMbKuVoegdz_y2-XQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iJkQMbKuVoegdz_y2-XQ-2" target="iJkQMbKuVoegdz_y2-XQ-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJkQMbKuVoegdz_y2-XQ-9" value="TCP/IP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iJkQMbKuVoegdz_y2-XQ-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.2215" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJkQMbKuVoegdz_y2-XQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="iJkQMbKuVoegdz_y2-XQ-1" target="iJkQMbKuVoegdz_y2-XQ-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJkQMbKuVoegdz_y2-XQ-2" value="&lt;b&gt;Web browser&lt;/b&gt;&lt;br&gt;&lt;br&gt;Chrome/Mozilla/Opera etc" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="80" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iJkQMbKuVoegdz_y2-XQ-7" value="&lt;b&gt;Inventory system server&lt;/b&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" parent="1" vertex="1">
+          <mxGeometry x="446.25" y="350" width="367.5" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="iJkQMbKuVoegdz_y2-XQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="iJkQMbKuVoegdz_y2-XQ-11" target="iJkQMbKuVoegdz_y2-XQ-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJkQMbKuVoegdz_y2-XQ-11" value="Presentation of&#xa;of the Web-App &#xa;to the user&#xa;&lt;&lt;HTML/CSS/JS&gt;&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="475" y="400" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iJkQMbKuVoegdz_y2-XQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=openThin;endFill=0;dashed=1;dashPattern=8 8;" parent="1" source="iJkQMbKuVoegdz_y2-XQ-12" target="iJkQMbKuVoegdz_y2-XQ-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJkQMbKuVoegdz_y2-XQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=openThin;endFill=0;exitX=0;exitY=0;exitDx=65;exitDy=0;exitPerimeter=0;startArrow=openThin;startFill=0;" parent="1" source="iJkQMbKuVoegdz_y2-XQ-19" target="iJkQMbKuVoegdz_y2-XQ-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJkQMbKuVoegdz_y2-XQ-12" value="Interface of the&#xa;database" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="482.5" y="525" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iJkQMbKuVoegdz_y2-XQ-14" value="Log files" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="660" y="460" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iJkQMbKuVoegdz_y2-XQ-19" value="&lt;b&gt;&lt;i&gt;Database server&lt;br&gt;&amp;lt;&amp;lt;SQL&amp;gt;&amp;gt;&lt;br&gt;&lt;/i&gt;&lt;br&gt;&lt;/b&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="400" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="iJkQMbKuVoegdz_y2-XQ-20" value="SQL server&#xa;database" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="110" y="460" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
